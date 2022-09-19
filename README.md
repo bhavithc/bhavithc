@@ -3,6 +3,8 @@
 - Engineer influencer
 - Passionate Programmer
 - Digital Coach
+- YouTuber 
+- Tech Blogger
 
 ### Proffesion (10+ years)
 - Senior Engineer @ Mercedes Benz Research & Development [Current]
@@ -24,6 +26,8 @@
 - Linux system programming 
 - Design patterns 
 - OOAD 
+
+
 
 
 <!--
